@@ -1,2 +1,2 @@
-# weatherforecastapp using openweathermapapi
+# weatherforecastapp using openweathermap api
 
